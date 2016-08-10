@@ -2,4 +2,5 @@
 # Exercício 4 e GCM
 # Gestão de configurção
 
-Autor: Anderson Baptista
+Autores: Anderson Baptista
+         Saymon Santos
