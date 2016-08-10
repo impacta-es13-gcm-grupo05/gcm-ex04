@@ -1,5 +1,5 @@
-# gcm-ex04
-# Exercício 4 e GCM
+# gcm-ex05
+# Exercício 5 GCM
 # Gestão de configurção
 
 Autor: Anderson Baptista
