@@ -2,5 +2,5 @@
 # Exercício 5 GCM
 # Gestão de configurção
 
-Autores: Anderson Baptista
+Autores: Anderson Baptista<br/>
          Saymon Santos
